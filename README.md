@@ -1,2 +1,2 @@
 # tic-tac-toe-
-It is a web project.
+This a Tic-Tac-Toe Game.There is used Build to html,Css & Javascript for frontend and using WebSocket for Backend work.
